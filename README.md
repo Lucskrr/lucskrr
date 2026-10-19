@@ -6,6 +6,7 @@
 
 Estudando, construindo e aprendendo em público. Aberto a oportunidades de estágio, trabalho e projetos freelance.
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-lucskrr.github.io-FF8F5A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucskrr.github.io/?utm_source=github)
 [![GitHub](https://img.shields.io/badge/GitHub-Lucskrr-181717?style=for-the-badge&logo=github)](https://github.com/Lucskrr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-rocha/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541998861768)
