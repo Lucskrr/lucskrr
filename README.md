@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Lucca 👋
 
-**Desenvolvedor em formação · Back-end, APIs e automação**
+**Engenharia de Software (Unicesumar) · Formando em dez/2026**<br>Back-end, APIs, automação e Power BI
 
 Estudando, construindo e aprendendo em público. Aberto a oportunidades de estágio, trabalho e projetos freelance.
 
@@ -18,7 +18,7 @@ Estudando, construindo e aprendendo em público. Aberto a oportunidades de está
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de tecnologia, aprendendo na prática: cada projeto aqui nasceu de uma disciplina, de uma prova ou de um problema real.
+- 🎓 Cursando **Engenharia de Software na Unicesumar**, com formatura em **dezembro de 2026**. Aprendo na prática: os projetos daqui nasceram de disciplinas, de provas e de problemas reais.
 - 🛠️ Gosto de **back-end, APIs REST, banco de dados e automação** de tarefas repetitivas.
 - 🧪 Estudo **testes** (TDD, teste estrutural) e boas práticas de código.
 - 🌐 Também faço **sites e landing pages** para profissionais e negócios locais.
