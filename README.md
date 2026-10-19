@@ -65,6 +65,7 @@ Estudando, construindo e aprendendo em público. Aberto a oportunidades de está
 
 | Projeto | O que é | Tecnologias |
 | --- | --- | --- |
+| **Sistema de Gestão de Produção e Premiação** _(código privado)_ | Sistema web completo: cadastro de colaboradores, cargos e setores, cartão ponto, ocorrências, apuração de prêmio por eficiência, custos por setor com integração ao Power BI e auditoria de acessos (LGPD). | Node.js, TypeScript, Express, Prisma, PostgreSQL, React, Vite, Vitest, Power BI |
 | [**Dashboard de Produção (Power BI)**](https://github.com/Lucskrr/powerbi-producao-dashboard) | Painel de meta, eficiência e prêmio por setor de uma metalúrgica fictícia: ritmo, projeção de fim de mês, fila de ordens de produção e mix de produtos. Modelo estrela com 45 medidas DAX documentadas. | Power BI, DAX, Power Query, TMDL, Python |
 | [**Conversor TOTVS**](https://github.com/Lucskrr/conversor-txt-csv) | Aplicativo desktop que converte relatórios TXT do TOTVS (GERR004 e CDFR054) em CSV, com lote, detecção automática de formato, barra de progresso, logs e instalador. | Python, Tkinter, PyInstaller, Inno Setup |
 | [**Análise de preços de carros**](https://github.com/Lucskrr/TESworkCar_price_prediction) | Sistema web com listagem filtrável, dashboard de gráficos e modelo de machine learning que prevê o preço de um carro. | Django, scikit-learn, Matplotlib, Seaborn, MySQL |
